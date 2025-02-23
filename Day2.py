@@ -29,10 +29,38 @@ not ==> returns opposite of the condition
 # result=a%b
 # print(result)
 
-a=5
-b=10
+# a=5
+# b=10
 
-print(a>3 and b>8)  #output= true
-print(a>3 or b<8)    #output = false
-print(not(a>3))
-print(not(a<3))
+# print(a>3 and b>8)  #output= true
+# print(a>3 or b<8)    #output = false
+# print(not(a>3))
+# print(not(a<3))
+
+
+# 3 comparision Operators
+
+"""
+==
+!=
+>
+<
+>=
+<=
+
+"""
+# x = 10
+# y = 5
+
+# print(x==y)
+# print(x!=y)   
+# print(x>y)  
+# print(x<y)   
+# print(x>=y)
+# print(x<=y)
+
+# 4.. By Using  inbuilt functions or operators by math
+# # import math
+# shilpa=100
+
+# print(math.sqrt(100))
