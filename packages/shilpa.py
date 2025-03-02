@@ -1,0 +1,1 @@
+square2 = lambda a,c: a**c
